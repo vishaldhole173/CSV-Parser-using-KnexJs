@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "csv": "^6.0.5",
+    "csv-parse": "^5.0.4",
+    "csv-parser": "^3.0.0",
+    "express": "^4.17.2"
+  },
+  "name": "task",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/vishal.dhole/task1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/vishal.dhole/task1/issues"
+  },
+  "homepage": "https://gitlab.com/vishal.dhole/task1#readme",
+  "description": ""
+}
